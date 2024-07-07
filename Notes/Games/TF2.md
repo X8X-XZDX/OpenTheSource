@@ -15,3 +15,6 @@ Github Tables:  https://docs.github.com/en/get-started/writing-on-github/working
 
 ------------------------------------------------------
 
+
+
+Juse 26-28 banwave -- Manual
