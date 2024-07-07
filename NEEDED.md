@@ -1,24 +1,26 @@
 Contributors Needed, In Context:
 
-TF2
-  Mappers
-  Weapon Designers
-  Content Creators - Balancers - Commentators
-  Server Owners / Moderators
-  Server Mod Creators
-  Competitive Input
+
 
   
-Steam
-  Client Users
-  Client Modders
-  Skin Designers
-  UI/UX Suggestions
-  Social Media Designs
+  Steam
+    Client Users
+    Client Modders
+    Skin Designers
+    UI/UX Suggestions
+    Social Media Designs
   
-Someone else besides XZDX who gives a fuck about their favorite games, and community.
 
 
+Notes Folder
+
+  Engines -- Source Engine -- Havok-Replacement
+    Research into open source physics engines
+
+
+  TF2
+    Lootbox Revenue Stats
+    User Ratios Before and After Bots
 
 
 
