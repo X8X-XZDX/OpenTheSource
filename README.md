@@ -6,4 +6,4 @@ With benefits included for TF2, CSGO, and other related communities, as well as 
 
 ## Discord Access
 
-https://discord.gg/muURHMWa
+https://discord.gg/Tb2K2czr
