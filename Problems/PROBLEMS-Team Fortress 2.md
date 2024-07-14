@@ -20,7 +20,7 @@
 --XZDX
 
 Flying Engie Builds: Small turret that flys in a zipline pattern.  Can be changed to retrieve health boxes on zipline,
-and will drop to the launching player when running into them on the "zipline"
+and will drop to the launching player when running into them on the "zipline".  Disables Dispenser, can be remote controlled.
 
 Bonk:  Bonk needs to be brought back, and given to every class.
 
