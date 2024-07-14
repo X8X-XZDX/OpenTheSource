@@ -16,12 +16,12 @@
 - The main problems are that it does NOT cover all classes and does NOT cover the base mechanics for every mercenary (like rocket jumping)
 - It also should give a litte bit more insight into alternate loadouts/weapons/gamemodes/roles of a mercenary (you obviously cannot explain each and every thing.. but it needs something that points to other seemingly hidden game mechanics and give atleast a short introduction)
 
---
+
 --XZDX
---
---Flying Engie Builds: Small turret that flys in a zipline pattern.  Can be changed to retrieve health boxes on zipline,
---and will drop to the launching player when running into them on the "zipline"
---
---Bonk:  Bonk needs to be brought back, and given to every class.
---
---Tick Rate / Reg:  Raise t-rate to 140
+
+Flying Engie Builds: Small turret that flys in a zipline pattern.  Can be changed to retrieve health boxes on zipline,
+and will drop to the launching player when running into them on the "zipline"
+
+Bonk:  Bonk needs to be brought back, and given to every class.
+
+Tick Rate / Reg:  Raise t-rate to 140
