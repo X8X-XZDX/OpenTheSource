@@ -15,7 +15,7 @@
 - It's pretty well known that the tutorial is far worse than just being lack-luster. It does a terrible job at introducing new players to the world of TF2.
 - The main problems are that it does NOT cover all classes and does NOT cover the base mechanics for every mercenary (like rocket jumping)
 - It also should give a litte bit more insight into alternate loadouts/weapons/gamemodes/roles of a mercenary (you obviously cannot explain each and every thing.. but it needs something that points to other seemingly hidden game mechanics and give atleast a short introduction)
-
+----------------------------------------
 
 --XZDX
 
